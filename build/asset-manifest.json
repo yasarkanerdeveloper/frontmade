@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f65f3a0.css",
+    "main.js": "/static/js/main.b6a5e123.js",
+    "static/js/787.a97437d2.chunk.js": "/static/js/787.a97437d2.chunk.js",
+    "static/media/mrabbit.gif": "/static/media/mrabbit.2b66c024a788d8ca70c8.gif",
+    "static/media/youtube.gif": "/static/media/youtube.26b2df49263d5af807ab.gif",
+    "static/media/rabbit1.png": "/static/media/rabbit1.e3040629290dc76377cd.png",
+    "static/media/telegram.gif": "/static/media/telegram.9520d9733d7a0c7445ba.gif",
+    "static/media/xfollow.gif": "/static/media/xfollow.6914c5bfe5dace5a0f4e.gif",
+    "static/media/Avenir-Black.ttf": "/static/media/Avenir-Black.561c15d61811bd9cc0a9.ttf",
+    "static/media/Avenir-Black.woff": "/static/media/Avenir-Black.5e7643316cfadf5f1c00.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0f65f3a0.css.map": "/static/css/main.0f65f3a0.css.map",
+    "main.b6a5e123.js.map": "/static/js/main.b6a5e123.js.map",
+    "787.a97437d2.chunk.js.map": "/static/js/787.a97437d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f65f3a0.css",
+    "static/js/main.b6a5e123.js"
+  ]
+}
