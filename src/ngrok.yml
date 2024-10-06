@@ -1,0 +1,7 @@
+tunnels:
+  app1:
+    addr: 3001
+    proto: http
+  app2:
+    addr: 3002
+    proto: http
